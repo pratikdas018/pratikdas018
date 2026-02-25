@@ -1,133 +1,134 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:1a0533,70:0d1117,100:000000&height=220&section=header&text=PRATIK%20CHANDRA%20DAS&fontSize=52&fontColor=e2d9f3&fontAlignY=45&desc=∙%20Full-Stack%20Developer%20∙%20MERN%20∙%20Backend%20Architect%20∙%20Cloud%20Explorer%20∙&descSize=14&descAlignY=68&descColor=9d4edd&animation=scaleIn&stroke=9d4edd&strokeWidth=1" />
+
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pratik%20Chandra%20Das&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20%7C%20Backend-Focused%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=🚀+Building+Scalable+Web+Applications;⚙️+MERN+Stack+%7C+REST+APIs+%7C+Auth+Systems;☁️+Exploring+Microservices+%26+AWS;💡+Clean+Code+%7C+Clean+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=9D4EDD&center=true&vCenter=true&random=false&width=580&lines=const+developer+%3D+%22Pratik+Chandra+Das%22%3B;stack.includes(%22MERN%22)+%3D%3D%3D+true+%E2%9C%85;while(true)+%7B+build()+%7D+%2F%2F+never+stops;shipping+features%2C+not+just+commits+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-das-sonu-7201a328b)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pratikdassonu)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikdassonu@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=pratikdas018&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://www.linkedin.com/in/pratik018/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/pratikdassonu"><img src="https://img.shields.io/badge/X%20(Twitter)-black?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="mailto:pratikdassonu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=pratikdas018&style=flat-square&color=9d4edd&label=visitors"/>
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## 🧬 Runtime Profile
 
-```ts
-const pratik = {
-  name:        "Pratik Chandra Das",
-  role:        "Full-Stack Web Developer (Backend-Focused)",
-  stack:       ["MongoDB", "Express.js", "React", "Node.js", "Next.js"],
-  learning:    ["Microservices", "TypeScript", "AWS", "Docker", "NestJS"],
-  openTo:      ["Freelance", "Open Source", "Startups", "Collaborations"],
-  funFact:     "I turn ☕ caffeine into code and bugs into features.",
-  contact:     "pratikdassonu@gmail.com",
+```typescript
+interface Developer {
+  name: string;
+  mission: string;
+  weapons: string[];
+  absorbing: string[];
+  superpower: string;
+}
+
+const pratik: Developer = {
+  name:       "Pratik Chandra Das",
+  mission:    "Build. Ship. Iterate. Repeat.",
+  weapons:    ["React", "Next.js", "Node.js", "Express", "NestJS", "MongoDB", "REST APIs", "JWT", "Tailwind"],
+  absorbing:  ["Microservices", "TypeScript", "AWS", "Docker", "System Design"],
+  superpower: "☕ → 💻 → 🚀  (caffeine compiler)",
 };
+
+export default pratik;
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🔬 Tech Stack
 
 <div align="center">
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+**— Frontend —**
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**— Backend —**
 
-### ☁️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+**— Data & Cloud —**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+**— Languages —**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🗂️ Featured Projects
 
 <div align="center">
 
-| 🏗️ Project | 🔧 Tech | ✨ Highlights |
+| 🎬 **CineCircle** | 📚 **LMS Platform** | 🍔 **Food Delivery App** |
 |:---:|:---:|:---:|
-| **📚 LMS Platform** | MERN, JWT, REST API | Role-based Auth (Student/Teacher), Quiz System, Responsive Dashboard |
-| **🎬 CineCircle** | React, Node.js, MongoDB | Movie Gossip Platform, Community Reviews, Trending Feed |
-| **🍔 Food Delivery App** | MERN, REST APIs | Cart & Order Flow, Mobile-First Design, Secure Checkout |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![MERN](https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) | ![MERN](https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| Movie Gossip Platform | Learning Management System | Food Delivery App |
+| 🍿 Community reviews & gossip feed | 👩‍🏫 Role-based auth (Student/Teacher) | 🛒 Full cart & order flow |
+| 🔥 Trending movies & hot takes | 📝 Quiz system with instant scoring | 💳 Secure checkout pipeline |
+| 🔐 Auth system with user profiles | 📊 Student & teacher dashboards | 📍 Mobile-first responsive design |
+| 📱 Cinema-grade responsive UI | 🔒 Secure API architecture | ⚡ Optimized REST API backend |
 
 </div>
 
-> 👉 Explore more on my [**Repositories**](https://github.com/pratikdas018?tab=repositories)
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratikdas018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=pratikdas018&theme=tokyonight&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdas018&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+> 🔍 More projects → **[GitHub Repositories](https://github.com/pratikdas018?tab=repositories)**
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=pratikdas018&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5)
+![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikdas018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=pratikdas018&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdas018&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Timeline
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikdas018&theme=tokyo-night&hide_border=true&area=true)](https://github.com/pratikdas018)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikdas018&bg_color=1a1b27&color=9d4edd&line=9d4edd&point=ff6b35&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## ✍️ Dev Wisdom
+## 🏆 Achievements
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=pratikdas018&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6)
 
 </div>
 
@@ -135,14 +136,21 @@ const pratik = {
 
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together!
-
-**📬 pratikdassonu@gmail.com** &nbsp;|&nbsp; **🔗 [LinkedIn](https://www.linkedin.com/in/pratik018/)** &nbsp;|&nbsp; **🐦 [X / Twitter](https://x.com/pratikdassonu)**
-
-<br/>
-
-*🚀 Always open to exciting opportunities, collaborations, and meaningful projects!*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║   Open to Freelance ∙ Open Source ∙ Startups ∙ Full-Time    ║
+║           pratikdassonu@gmail.com  ·  @pratikdassonu         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d1117&height=100&section=footer&animation=fadeIn" />
