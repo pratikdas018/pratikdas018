@@ -18,13 +18,7 @@
 ## 🧬 Runtime Profile
 
 ```typescript
-interface Developer {
-  name: string;
-  mission: string;
-  weapons: string[];
-  absorbing: string[];
-  superpower: string;
-}
+
 
 const pratik: Developer = {
   name:       "Pratik Chandra Das",
