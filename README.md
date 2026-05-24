@@ -15,7 +15,7 @@
 
 ---
 
-## 🧬 Runtime Profile
+##  Runtime Profile
 
 ```typescript
 
@@ -33,7 +33,7 @@ export default pratik;
 
 ---
 
-## 🔬 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -71,29 +71,29 @@ export default pratik;
 
 ---
 
-## 🗂️ Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-| 🧠 **CodeSight** | 🚨 **API Monitoring Platform** | 🎬 **CineCircle** |
+|  **CodeSight** |  **API Monitoring Platform** |  **CineCircle** |
 |:---:|:---:|:---:|
 | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | Visual Code Execution & Learning Platform | Distributed API Monitoring & Incident Management | Movie Gossip & Social Community Platform |
-| 🔍 Line-by-line execution visualization | 📡 Continuous API uptime & latency monitoring | 🍿 Movie discussions & community engagement |
-| 🧠 Stack & Heap memory visualization | 🚨 Automated incident detection & recovery | 💬 Real-time messaging with Socket.io |
-| ▶️ Interactive execution playback timeline | ⚡ Redis + BullMQ background monitoring workers | 🔥 Trending feeds, reviews & social interactions |
-| 🌐 Supports C, C++, Java, Python & JavaScript | 📧 Instant email alerting & public status pages | 🔐 Secure authentication & user profiles |
+|  Line-by-line execution visualization |  Continuous API uptime & latency monitoring |  Movie discussions & community engagement |
+|  Stack & Heap memory visualization |  Automated incident detection & recovery |  Real-time messaging with Socket.io |
+|  Interactive execution playback timeline |  Redis + BullMQ background monitoring workers |  Trending feeds, reviews & social interactions |
+|  Supports C, C++, Java, Python & JavaScript |  Instant email alerting & public status pages |  Secure authentication & user profiles |
 
 </div>
 
 <div align="center">
 
-> 🔍 More projects → **[GitHub Repositories](https://github.com/pratikdas018?tab=repositories)**
+>  More projects → **[GitHub Repositories](https://github.com/pratikdas018?tab=repositories)**
 
 </div>
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -107,7 +107,7 @@ export default pratik;
 
 ---
 
-## 📈 Contribution Timeline
+##  Contribution Timeline
 
 <div align="center">
 
@@ -117,7 +117,7 @@ export default pratik;
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
